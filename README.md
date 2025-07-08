@@ -20,7 +20,7 @@ cd scrapesmart
 pip install -r requirements.txt
 
 
-## 🛠 Usage
+## Usage
 
 
 python examples/scrape_example_site.py
